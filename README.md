@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/monisha-a-14/leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/monisha-a-14/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monisha-a-14/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/monisha-a-14/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/monisha-a-14/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -22,6 +23,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/monisha-a-14/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/monisha-a-14/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/monisha-a-14/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/monisha-a-14/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
