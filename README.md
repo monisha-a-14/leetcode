@@ -7,6 +7,7 @@
 | [0136-single-number](https://github.com/monisha-a-14/leetcode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/monisha-a-14/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/monisha-a-14/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/monisha-a-14/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/monisha-a-14/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/monisha-a-14/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
