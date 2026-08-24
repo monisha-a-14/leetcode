@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/monisha-a-14/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/monisha-a-14/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -65,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/monisha-a-14/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/monisha-a-14/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -112,6 +114,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
