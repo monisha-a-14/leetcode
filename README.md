@@ -7,6 +7,7 @@
 | [0136-single-number](https://github.com/monisha-a-14/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/monisha-a-14/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monisha-a-14/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/monisha-a-14/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0136-single-number](https://github.com/monisha-a-14/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/monisha-a-14/leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/monisha-a-14/leetcode/tree/master/0342-power-of-four) |
 ## Math
 |  |
@@ -75,10 +77,12 @@
 | ------- |
 | [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monisha-a-14/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/monisha-a-14/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -87,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/monisha-a-14/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Euclidean Algorithm
 |  |
@@ -120,4 +125,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/monisha-a-14/leetcode/tree/master/1672-richest-customer-wealth) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
