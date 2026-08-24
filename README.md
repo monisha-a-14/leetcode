@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/monisha-a-14/leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/monisha-a-14/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monisha-a-14/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/monisha-a-14/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monisha-a-14/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/monisha-a-14/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/monisha-a-14/leetcode/tree/master/0258-add-digits) |
@@ -71,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monisha-a-14/leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
