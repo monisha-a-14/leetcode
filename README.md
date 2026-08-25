@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/monisha-a-14/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/monisha-a-14/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/monisha-a-14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/monisha-a-14/leetcode/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monisha-a-14/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/monisha-a-14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
