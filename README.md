@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/monisha-a-14/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/monisha-a-14/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/monisha-a-14/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/monisha-a-14/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monisha-a-14/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/monisha-a-14/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monisha-a-14/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Floyd's Cycle Finding Algorithm
