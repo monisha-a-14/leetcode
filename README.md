@@ -21,6 +21,7 @@
 | [0724-find-pivot-index](https://github.com/monisha-a-14/leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/monisha-a-14/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/monisha-a-14/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monisha-a-14/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/monisha-a-14/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monisha-a-14/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -132,6 +133,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/monisha-a-14/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/monisha-a-14/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/monisha-a-14/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/monisha-a-14/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monisha-a-14/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Euclidean Algorithm
 |  |
