@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/monisha-a-14/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/monisha-a-14/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/monisha-a-14/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/monisha-a-14/leetcode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/monisha-a-14/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/monisha-a-14/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/monisha-a-14/leetcode/tree/master/0231-power-of-two) |
@@ -238,6 +240,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/monisha-a-14/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/monisha-a-14/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/monisha-a-14/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/monisha-a-14/leetcode/tree/master/0203-remove-linked-list-elements) |
