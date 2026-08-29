@@ -279,6 +279,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/monisha-a-14/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/monisha-a-14/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/monisha-a-14/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -289,6 +290,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/monisha-a-14/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/monisha-a-14/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/monisha-a-14/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/monisha-a-14/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/monisha-a-14/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -310,6 +313,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/monisha-a-14/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/monisha-a-14/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/monisha-a-14/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/monisha-a-14/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
