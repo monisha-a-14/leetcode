@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/monisha-a-14/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/monisha-a-14/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/monisha-a-14/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/monisha-a-14/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monisha-a-14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monisha-a-14/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/monisha-a-14/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/monisha-a-14/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/monisha-a-14/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monisha-a-14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monisha-a-14/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/monisha-a-14/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/monisha-a-14/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monisha-a-14/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/monisha-a-14/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Stack
