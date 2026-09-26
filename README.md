@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monisha-a-14/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monisha-a-14/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monisha-a-14/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/monisha-a-14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/monisha-a-14/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/monisha-a-14/leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/monisha-a-14/leetcode/tree/master/0189-rotate-array) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/monisha-a-14/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/monisha-a-14/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/monisha-a-14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/monisha-a-14/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/monisha-a-14/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/monisha-a-14/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -450,6 +452,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/monisha-a-14/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/monisha-a-14/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/monisha-a-14/leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/monisha-a-14/leetcode/tree/master/1020-number-of-enclaves) |
