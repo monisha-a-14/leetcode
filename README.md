@@ -30,6 +30,7 @@
 | [0287-find-the-duplicate-number](https://github.com/monisha-a-14/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/monisha-a-14/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/monisha-a-14/leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0456-132-pattern](https://github.com/monisha-a-14/leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/monisha-a-14/leetcode/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/monisha-a-14/leetcode/tree/master/0518-coin-change-ii) |
@@ -154,6 +155,7 @@
 | [0217-contains-duplicate](https://github.com/monisha-a-14/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monisha-a-14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/monisha-a-14/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monisha-a-14/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -216,6 +218,7 @@
 | [0053-maximum-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/monisha-a-14/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/monisha-a-14/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
@@ -226,16 +229,19 @@
 | [0217-contains-duplicate](https://github.com/monisha-a-14/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/monisha-a-14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/monisha-a-14/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monisha-a-14/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/monisha-a-14/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/monisha-a-14/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -478,4 +484,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/monisha-a-14/leetcode/tree/master/0139-word-break) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/monisha-a-14/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
